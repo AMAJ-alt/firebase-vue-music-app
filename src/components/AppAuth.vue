@@ -21,7 +21,6 @@
             <!-- Modal Close Button -->
             <div class="modal-close cursor-pointer z-50" @click.prevent="toggleAuthModal" @keydown.esc="toggleAuthModal">
               <i class="fas fa-times"></i>
-              1
             </div>
           </div>
 
