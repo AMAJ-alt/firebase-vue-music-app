@@ -5,6 +5,7 @@
             <p class="text-xl text-gray-600">page was not found</p>
             <router-link :to="{ name: 'home' }" class="text-blue-500 hover:underline mt-2 inline-block">redirect to the home
                 page</router-link>
+          22404
         </div>
     </div>
 </template>
